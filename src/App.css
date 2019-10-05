@@ -1,0 +1,14 @@
+body {
+  font-size: 62.5%; /* 1rem = 10px */
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+}
+
+.App {
+  font-size: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

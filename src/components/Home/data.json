@@ -1,0 +1,54 @@
+{
+  "cardData": [
+    {
+      "title": "Blog/Article",
+      "price": "500",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "Newsletter / E-mailer",
+      "price": "1000",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "Whitepaper",
+      "price": "2000",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "e-book",
+      "price": "1000",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "Report / Guide",
+      "price": "1000",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "Product Description",
+      "price": "500",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "Website Content",
+      "price": "1000",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "Video Script",
+      "price": "1000",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "Company Profile / Brochure",
+      "price": "2000",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    },
+    {
+      "title": "Press Release",
+      "price": "2000",
+      "content": "Typically 400-450 words, an ebook is perfect for your target audience ranging from prospective customers to users"
+    }
+  ]
+}
