@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d70a1adf.chunk.css",
-    "main.js": "/static/js/main.4159bb66.chunk.js",
-    "main.js.map": "/static/js/main.4159bb66.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.fb4b59c0.js",
-    "runtime~main.js.map": "/static/js/runtime~main.fb4b59c0.js.map",
-    "static/css/2.653462cc.chunk.css": "/static/css/2.653462cc.chunk.css",
-    "static/js/2.aacfbf6c.chunk.js": "/static/js/2.aacfbf6c.chunk.js",
-    "static/js/2.aacfbf6c.chunk.js.map": "/static/js/2.aacfbf6c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f196a73a6a41689aaefc5482f573ae32.js": "/precache-manifest.f196a73a6a41689aaefc5482f573ae32.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.653462cc.chunk.css.map": "/static/css/2.653462cc.chunk.css.map",
-    "static/css/main.d70a1adf.chunk.css.map": "/static/css/main.d70a1adf.chunk.css.map",
-    "static/media/card-icon.png": "/static/media/card-icon.e1823ff0.png",
-    "static/media/whitepanda-logo.png": "/static/media/whitepanda-logo.198ac920.png"
+    "main.css": "/Whitepanda-Page/static/css/main.d70a1adf.chunk.css",
+    "main.js": "/Whitepanda-Page/static/js/main.6710755e.chunk.js",
+    "main.js.map": "/Whitepanda-Page/static/js/main.6710755e.chunk.js.map",
+    "runtime~main.js": "/Whitepanda-Page/static/js/runtime~main.174b54d2.js",
+    "runtime~main.js.map": "/Whitepanda-Page/static/js/runtime~main.174b54d2.js.map",
+    "static/css/2.653462cc.chunk.css": "/Whitepanda-Page/static/css/2.653462cc.chunk.css",
+    "static/js/2.5841f83c.chunk.js": "/Whitepanda-Page/static/js/2.5841f83c.chunk.js",
+    "static/js/2.5841f83c.chunk.js.map": "/Whitepanda-Page/static/js/2.5841f83c.chunk.js.map",
+    "index.html": "/Whitepanda-Page/index.html",
+    "precache-manifest.18056c721edf96fa14c1fb350530e8cb.js": "/Whitepanda-Page/precache-manifest.18056c721edf96fa14c1fb350530e8cb.js",
+    "service-worker.js": "/Whitepanda-Page/service-worker.js",
+    "static/css/2.653462cc.chunk.css.map": "/Whitepanda-Page/static/css/2.653462cc.chunk.css.map",
+    "static/css/main.d70a1adf.chunk.css.map": "/Whitepanda-Page/static/css/main.d70a1adf.chunk.css.map",
+    "static/media/card-icon.png": "/Whitepanda-Page/static/media/card-icon.e1823ff0.png",
+    "static/media/whitepanda-logo.png": "/Whitepanda-Page/static/media/whitepanda-logo.198ac920.png"
   }
 }
